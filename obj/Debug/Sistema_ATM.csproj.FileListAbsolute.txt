@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Sistema_ATM\bin\Debug\Sistema_ATM.exe.config
+C:\Users\admin\source\repos\Sistema_ATM\bin\Debug\Sistema_ATM.exe
+C:\Users\admin\source\repos\Sistema_ATM\bin\Debug\Sistema_ATM.pdb
+C:\Users\admin\source\repos\Sistema_ATM\obj\Debug\Sistema_ATM.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Sistema_ATM\obj\Debug\Sistema_ATM.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Sistema_ATM\obj\Debug\Sistema_ATM.exe
+C:\Users\admin\source\repos\Sistema_ATM\obj\Debug\Sistema_ATM.pdb
